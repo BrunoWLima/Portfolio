@@ -2,17 +2,14 @@
 
 Disponível para projetos freelance
 
-.NET | Angular | PostgreSQL | MongoDB | REST API
-
 Especialidade: Sistemas corporativos, APIs escaláveis e arquitetura limpa
 
 Desenvolvedor Full Stack com mais de 12 anos de experiência, especializado em .NET e Angular, com forte atuação em integrações de sistemas.
-
 Atuo com desenvolvimento sob demanda, criação de APIs REST, dashboards analíticos e sistemas administrativos.
 
 ## Stack Principal
 - C# / .NET
-- Angular (Standalone)
+- Angular(Standalone) / Vue
 - PostgreSQL / MongoDB
 - REST APIs
 - Azure / AWS
