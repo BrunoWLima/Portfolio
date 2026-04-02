@@ -4,8 +4,9 @@ Disponível para projetos freelance
 
 Especialidade: Sistemas corporativos, APIs escaláveis e arquitetura limpa
 
-Desenvolvedor Full Stack com mais de 12 anos de experiência, especializado em .NET e Angular, com forte atuação em integrações de sistemas.
-Atuo com desenvolvimento sob demanda, criação de APIs REST, dashboards analíticos e sistemas administrativos.
+Desenvolvedor Full Stack com mais de 12 anos de experiência em desenvolvimento de sistemas corporativos, atuando principalmente com .NET e Angular. Possuo forte experiência em integrações entre sistemas, construção de APIs REST e desenvolvimento de dashboards analíticos.
+
+Atuo em projetos sob demanda, desde a arquitetura até a implementação, com foco em performance, organização modular e escalabilidade..
 
 ## Stack Principal
 - C# / .NET
